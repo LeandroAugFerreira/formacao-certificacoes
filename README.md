@@ -29,14 +29,14 @@ Acervo público de formação acadêmica, cursos e credenciais, organizado pela 
 |---|---|---|---|---|
 | 02/01/2025 | Computer Basics | IBM SkillsBuild | 1 h 20 min | [PDF](documentos/cursos/computer-basics.pdf) |
 | 02/01/2025 | Computer Networking Basics: How Computers Communicate | IBM SkillsBuild | 1 h 15 min | [PDF](documentos/cursos/computer-networking-basics.pdf) |
-| 02/01/2025 | Earn it! Accept it! Share it! | IBM SkillsBuild · Orientacao | IBM SkillsBuild | 2 min | [PDF](documentos/cursos/earn-accept-share.pdf) |
+| 02/01/2025 | Earn it! Accept it! Share it! \| IBM SkillsBuild · Orientação | IBM SkillsBuild | 2 min | [PDF](documentos/cursos/earn-accept-share.pdf) |
 | 05/01/2025 | Análise de Dados Impressionadora | Hashtag Treinamentos | 117 h | [PDF](documentos/cursos/analise-dados-impressionadora.pdf) |
 | 10/01/2025 | Fundamentos da Tecnologia da Informação | IBM SkillsBuild | Não informada | [PDF](documentos/cursos/fundamentos-tecnologia-informacao.pdf) · [Verificar credencial](https://www.credly.com/go/o903Q42n) |
 | 16/01/2025 | Fundamentos do Desenvolvimento Web | IBM SkillsBuild | Não informada | [PDF](documentos/cursos/fundamentos-desenvolvimento-web.pdf) · [Verificar credencial](https://www.credly.com/go/twdHqMgz) |
 | 17/02/2025 | Python Impressionador | Hashtag Treinamentos | 122 h | [PDF](documentos/cursos/python-impressionador.pdf) |
 | 20/03/2025 | Análise de Dados — Trilha IA · Trilha | Hashtag Treinamentos | 3 h | [PDF](documentos/cursos/trilha-ia-dados.pdf) |
-| 13/11/2025 | Excel Impressionador — Nível Avançado · Nivel | Hashtag Treinamentos | 26 h | [PDF](documentos/cursos/excel-avancado.pdf) |
-| 13/11/2025 | Excel Impressionador — Aprofundamento, Especialização e Extras · Nivel | Hashtag Treinamentos | 22 h | [PDF](documentos/cursos/excel-aprofundamento.pdf) |
+| 13/11/2025 | Excel Impressionador — Nível Avançado · Nível | Hashtag Treinamentos | 26 h | [PDF](documentos/cursos/excel-avancado.pdf) |
+| 13/11/2025 | Excel Impressionador — Aprofundamento, Especialização e Extras · Nível | Hashtag Treinamentos | 22 h | [PDF](documentos/cursos/excel-aprofundamento.pdf) |
 
 ## Documentos complementares
 
